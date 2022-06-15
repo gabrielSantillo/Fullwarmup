@@ -109,6 +109,10 @@ img {
     color: white;
   }
 
+  #page-main-content > h1 {
+    font-size: 3rem;
+  }
+
   #page-main-bear-picture {
     height: 80vh;
   }
